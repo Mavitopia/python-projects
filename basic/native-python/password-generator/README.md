@@ -15,7 +15,7 @@ A simple Python program that generates a **random, secure password** based on us
 
 ## Requirements
 
-- Python 3.x
+- ![Python](https://img.shields.io/badge/python-3.13.1-blue)
 
 No external libraries required.
 
