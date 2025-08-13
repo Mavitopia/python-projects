@@ -4,7 +4,7 @@
 
 A curated collection of **Python projects** categorized by **difficulty** and **type**.
 
-![Python Logo](https://www.python.org/community/logos/python-logo-master-v3-TM.png)
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3lycjV5YmlnZncwMG5peTY0dDg5cTBmdGd3ZjVlY3FkMWpvYTMydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.gif" alt="Python code GIF" width="320" />
 
 </div>
 
