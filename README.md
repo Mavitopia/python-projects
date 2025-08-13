@@ -1,2 +1,22 @@
-# python-projects
-Collection of Python projects for learning, practice, and portfolio.
+# Python Projects
+
+A collection of Python projects categorized by difficulty and type
+
+## Contents
+
+### Basic Projects
+- **Cybersecurity**
+  - [Password Generator](basic/cybersecurity/password-generator)
+- **Web**
+- **Native Python**
+
+### Intermediate Projects
+- **Cybersecurity**
+- **Web**
+- **Native Python**
+
+
+### Advanced Projects
+- **Cybersecurity**
+- **Web**
+- **Native Python**
