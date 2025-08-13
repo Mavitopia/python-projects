@@ -1,22 +1,35 @@
-# Python Projects
+<div align="center">
 
-A collection of Python projects categorized by difficulty and type
+# 🐍 Python Projects
 
-## Contents
+A curated collection of **Python projects** categorized by **difficulty** and **type**.
 
-### Basic Projects
+![Python GIF](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+
+</div>
+
+---
+
+## 📋 Contents
+
+### 🟢 Basic Projects
 - **Cybersecurity**
 - **Web**
 - **Native Python**
-  - [Password Generator](basic/native-python/password-generator/password_generator.py)
+  - [Password Generator](basic/native-python/password-generator/password_generator.py) 🔐
 
-### Intermediate Projects
+---
+
+### 🟡 Intermediate Projects
 - **Cybersecurity**
 - **Web**
 - **Native Python**
 
+---
 
-### Advanced Projects
+### 🔴 Advanced Projects
 - **Cybersecurity**
 - **Web**
 - **Native Python**
+
+---
