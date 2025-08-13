@@ -6,9 +6,9 @@ A collection of Python projects categorized by difficulty and type
 
 ### Basic Projects
 - **Cybersecurity**
-  - [Password Generator](basic/native-python/password-generator/password_generator.py)
 - **Web**
 - **Native Python**
+  - [Password Generator](basic/native-python/password-generator/password_generator.py)
 
 ### Intermediate Projects
 - **Cybersecurity**
