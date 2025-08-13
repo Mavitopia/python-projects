@@ -27,11 +27,13 @@ No external libraries required.
 2. Open a terminal and navigate to the project folder.
 3. Run the program:
 
-```bash
+```python
 python password_generator.py
-
+```
 example output:
+```markdown
 How many letters? 5
 How many symbols? 3
 How many digits? 2
 Your password is: aB3%Df7!
+```
