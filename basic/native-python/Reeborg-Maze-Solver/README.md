@@ -1,4 +1,4 @@
-# Maze World Solver ![Python](https://img.shields.io/badge/python-3.x-blue)
+# Maze World Solver - ![Python](https://img.shields.io/badge/python-3.x-blue)
 
 A Python program that solves the **Maze World challenge** on [Reeborg’s World](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json).  
 The bot navigates the maze from any starting orientation until it reaches the goal.
