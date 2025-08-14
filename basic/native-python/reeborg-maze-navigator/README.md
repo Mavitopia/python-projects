@@ -24,5 +24,5 @@ The bot navigates the maze from any starting orientation until it reaches the go
 ## How to Run
 
 1. Open [Reeborg’s Maze World](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json).  
-2. Paste the `maze_solver.py` code into the Python editor.  
+2. Paste the `reeborg_maze_navigator.py` code into the Python editor.  
 3. Click **Run** to see the robot navigate the maze.
