@@ -17,6 +17,7 @@ A curated collection of **Python projects** categorized by **difficulty** and **
 - **Web**
 - **Native Python**
   - [Password Generator](basic/native-python/password-generator/password_generator.py) 🔐
+  - [Reeborg Maze Navigator](basic/native-python/reeborg-maze-navigator/reeborg_maze_navigator.py) 🗺️
 
 ---
 
