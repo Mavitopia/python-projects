@@ -16,7 +16,6 @@ The bot navigates the maze from any starting orientation until it reaches the go
 
 ## Requirements
 
-- Python 3.x  
 - Reeborg’s World online environment: [Maze World](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json)  
 
 ---
