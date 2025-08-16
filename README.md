@@ -15,23 +15,23 @@ A curated collection of **Python projects** categorized by **difficulty** and **
 ### 🟢 Basic Projects
 - **Cybersecurity**
 - **Web**
-- **Native Python**
-  - [Password Generator](basic/native-python/password-generator/password_generator.py) 🔐
-  - [Reeborg Maze Navigator](basic/native-python/reeborg-maze-navigator/reeborg_maze_navigator.py) 🗺️
-  - [Hangman Game](basic/native-python/hangman/hangman.py) 🎮
+- **Pure Python**
+  - [Password Generator](basic/pure-python/password-generator/password_generator.py) 🔐
+  - [Reeborg Maze Navigator](basic/pure-python/reeborg-maze-navigator/reeborg_maze_navigator.py) 🗺️
+  - [Hangman Game](basic/pure-python/hangman/hangman.py) 🎮
 
 ---
 
 ### 🟡 Intermediate Projects
 - **Cybersecurity**
 - **Web**
-- **Native Python**
+- **Pure Python**
 
 ---
 
 ### 🔴 Advanced Projects
 - **Cybersecurity**
 - **Web**
-- **Native Python**
+- **Pure Python**
 
 ---
