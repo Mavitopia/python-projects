@@ -67,7 +67,7 @@ def get_single_letter(prompt="Enter a letter: "):
             return user_input  # valid single letter
         
 
-def prompt_player(mistake_count, repeated):
+def prompt_player(mistake_count, repeated, word):
     if not repeated:
         if mistake_count == 0:
             print(f"Welcome to the Hangman game! Your goal is to guess the hidden word within 6 attempts before the man is hanged. Good luck!\n{HANGMAN_PICS[0]}")
@@ -88,7 +88,7 @@ def prompt_player(mistake_count, repeated):
             print(f"This is it! One last chance to guess the word correctly.\n{HANGMAN_PICS[5]}")
             player_guess_input = get_single_letter(f"Letters guessed so far: {' '.join(masked_letters)}\n\nYour guess: ")
         elif mistake_count >= 6:
-            print(f"Game over! The man has been hanged.\n{HANGMAN_PICS[6]}")
+            print(f"Game over! The man has been hanged.\n{HANGMAN_PICS[6]} \n the word was: {word}")
             return ""
 
         return player_guess_input.lower()
@@ -118,7 +118,7 @@ while is_game_active:
     # DEBUG: Uncomment the following line to reveal the secret word for testing purposes
     # print(secret_word)
 
-    player_guess = prompt_player(wrong_attempts, repeated_guess)
+    player_guess = prompt_player(wrong_attempts, repeated_guess, secret_word)
     repeated_guess = False #back to default
 
     if (wrong_attempts >= 6):
