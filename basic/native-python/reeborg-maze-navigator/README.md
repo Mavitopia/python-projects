@@ -9,8 +9,8 @@ The bot navigates the maze from any starting orientation until it reaches the go
 
 - Works from **any starting direction**.  
 - Implements a **forward-first wall-following algorithm** with right-hand checking.  
-- Simple Python functions and loops — ideal for beginners learning programming concepts.  
-- No external libraries required — fully compatible with Reeborg’s built-in environment.
+- Simple Python functions and loops.
+- fully compatible with Reeborg’s built-in environment.
 
 ---
 
@@ -19,12 +19,10 @@ The bot navigates the maze from any starting orientation until it reaches the go
 - Python 3.x  
 - Reeborg’s World online environment: [Maze World](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json)  
 
-No additional libraries needed.
-
 ---
 
 ## How to Run
 
 1. Open [Reeborg’s Maze World](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json).  
-2. Paste the `maze_solver.py` code into the Python editor.  
+2. Paste the `reeborg_maze_navigator.py` code into the Python editor.  
 3. Click **Run** to see the robot navigate the maze.
