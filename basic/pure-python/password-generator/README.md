@@ -15,7 +15,7 @@ A simple Python program that generates a **random, secure password** based on us
 
 ## Requirements
 
-- python.x
+- python 3.x
 
 No external libraries required.
 
