@@ -1,4 +1,3 @@
-@ -0,0 +1,33 @@
 # Hangman Game - ![Python](https://img.shields.io/badge/python-3.13.1-blue)
 
 A simple **Python Hangman game** where the player tries to guess a randomly generated word before the hangman is fully drawn.  
