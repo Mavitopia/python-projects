@@ -16,10 +16,10 @@ A curated collection of **Python projects** categorized by **difficulty** and **
 - **Cybersecurity**
 - **Web**
 - **Pure Python**
-  - [Password Generator](basic/pure-python/password-generator/password_generator.py) 🔏
-  - [Reeborg Maze Navigator](basic/pure-python/reeborg-maze-navigator/reeborg_maze_navigator.py) 🗺️
-  - [Hangman Game](basic/pure-python/hangman/hangman.py) 🎮
-  - [Caesar Cipher](basic/pure-python/caesar-cipher/caesar_cipher.py) 🔐
+  - [Password Generator](basic/pure-python/password-generator/) 🔏
+  - [Reeborg Maze Navigator](basic/pure-python/reeborg-maze-navigator/) 🗺️
+  - [Hangman Game](basic/pure-python/hangman/) 🎮
+  - [Caesar Cipher](basic/pure-python/caesar-cipher/) 🔐
 
 ---
 
