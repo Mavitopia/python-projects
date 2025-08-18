@@ -20,6 +20,7 @@ A curated collection of **Python projects** categorized by **difficulty** and **
   - [Reeborg Maze Navigator](basic/pure-python/reeborg-maze-navigator/) 🗺️
   - [Hangman Game](basic/pure-python/hangman/) 🎮
   - [Caesar Cipher](basic/pure-python/caesar-cipher/) 🔐
+  - [Secret Auction](basic/pure-python/secret-auction/) 💸
 
 ---
 
